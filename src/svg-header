@@ -1,0 +1,9 @@
+<style>
+.node { font: 5px sans-serif; text-anchor:middle; alignment-baseline:middle; fill:black; }
+.link { stroke:green; stroke-width:0.5; }
+</style>
+<defs>
+<marker id='head' orient='auto' markerWidth='2' markerHeight='4' refX='7' refY='2' markerUnits='userSpaceOnUse' >
+<path d='M0,0 V4 L2,2 Z' fill='black' />
+</marker>
+</defs>

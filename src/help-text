@@ -1,0 +1,8 @@
+[OPTIONS...]
+Creates a simple SVG image representing a stemma.
+By default, this reads from standard in and writes to standard out.
+
+Options:
+  -h, --help                Display this help message
+  -i, --input PATH          Read stemma from PATH instead of stdin
+  -o, --output PATH         Write stemma image to PATH instead of stdout

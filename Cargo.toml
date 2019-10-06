@@ -1,0 +1,7 @@
+[package]
+name = "svw"
+version = "0.1.0"
+authors = ["MinusKelvin <mark.carlson@minuskelvin.net>"]
+
+[dependencies]
+regex = "1"
